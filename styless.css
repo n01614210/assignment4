@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white !important;
+}
+
+.jumbotron {
+    background-image: url('https://source.unsplash.com/1200x800/?event');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    margin-bottom: 0;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
